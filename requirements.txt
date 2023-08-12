@@ -3,4 +3,3 @@ TgCrypto==1.2.5
 filetype==1.2.0
 filesplit==4.0.1
 wget==3.2
--e git+https://github.com/ms5050/pyro-mega.py.git#egg=pyro-mega.py
