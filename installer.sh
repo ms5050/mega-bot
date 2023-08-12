@@ -91,7 +91,7 @@ function checkDepends() {
 
 function install() {
     show_process_msg "Cloning into Mega.nz-Bot repository"
-    git clone https://github.com/Itz-fork/Mega.nz-Bot || show_error_msg "Unable to clone the Mega.nz-Bot repository"
+    git clone https://github.com/ms5050/mega-bot || show_error_msg "Unable to clone the Mega.nz-Bot repository"
 
     show_process_msg "Changing the directory to 'Mega.nz-Bot'"
     cd Mega.nz-Bot || show_error_msg "'Mega.nz-Bot' folder not found"
