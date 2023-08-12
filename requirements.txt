@@ -1,6 +1,6 @@
-pyrogram==1.3.3
-TgCrypto==1.2.1
-filetype==1.0.7
-filesplit==1.0.3
+pyrogram==0.6.3
+TgCrypto==1.2.5
+filetype==1.2.0
+filesplit==4.0.1
 wget==3.2
 git+https://github.com/Itz-fork/pyro-mega.py.git#egg=pyro-mega.py
